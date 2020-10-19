@@ -1,0 +1,32 @@
+.App,
+body,
+html,
+canvas,
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  background-color: #091224;
+}
+
+.text {
+  position: absolute;
+  color: wheat;
+  justify-content: center;
+  text-align: center;
+  top: 40%;
+  left: 25%;
+}
+
+.hello {
+  width: 365px !important;
+  height: 424.5px !important;
+  left: 5px;
+  top: 18% !important;
+  justify-content: center;
+}
